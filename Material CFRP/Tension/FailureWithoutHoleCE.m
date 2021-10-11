@@ -1,4 +1,4 @@
-% Failure of GFRP without hole 
+% Failure of CFRP without hole 
 %----------------------------------------
 
 clear, clc %#ok<*SAGROW>
@@ -59,7 +59,7 @@ end
 
 Ang = [0:5:90]';OfHR = OfHR'; OfTH = OfTH'; OfHV = OfHV';
 Tab  = table(Ang, OfHR, OfTH, OfHV);
-filename = 'Failure_GFRP_Without_Hole.xlsx';
+filename = 'Failure_CFRP_Without_Hole.xlsx';
 writetable(Tab,filename,'Sheet',1,'Range','A2')
 
 
