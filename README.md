@@ -16,5 +16,7 @@ Distributed under the GNU LGPL v.3.0.
 # Authors:
 Rahmouni Faouzi: 📫 **rahmounifaouzi01@gmail.com**  <br />
 Prof. Elajrami Mohamed: 📫 **eladjrami_mohamed@yahoo.fr**
+Prof. Kouider Madani: 📫 **koumad10@yahoo.fr**
+Prof. Raul Campilho
 
 
