@@ -1,6 +1,6 @@
 # Analytic Approach for Orthotropic Composite Plate with Circular Hole Subjected to Uniaxial Load
 
-This public repository provides the source code to the [publication](https://github.com/RahmouniFaouzi/SCFsAnalytic) **Isogeometric Analysis of Stress Concentrations and Failure Strength in Composite Plates with Circular Holes Using RHT-Splines** published by …………………………………. 
+This public repository provides the source code to the [publication](https://github.com/RahmouniFaouzi/SCFsAnalytic) **Isogeometric Analysis of Stress Concentrations and Failure Strength in Composite Plates with Circular Holes Using RHT-Splines** published by European Journal of Mechanics, A/Solids. 
 The purpose of this source code is to compute the stress concentration factors (SCFs) for predicting the first ply failure (FPF) of single layer orthotropic rectangular plate with single circular hole subjected to uniaxial load using Hencky-Von Mises distortion energy theory, Tsai-Hill failure theory and Hashin-Rotem failure theory.
 
 # Test
